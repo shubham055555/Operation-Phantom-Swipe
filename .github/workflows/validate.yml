@@ -12,33 +12,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Validate required directories
-        shell: bash
+      - name: Show repository contents
         run: |
-          test -d evidence
-          test -d generated_data
-          test -d extracted_artifacts
-          test -d hashes
-          test -d chain_of_custody
-          test -d crypto
-          test -d scripts
-          test -d screenshots
-          test -d report
+          pwd
+          ls -la
+          find . -maxdepth 2 -type f | sort
+
+      - name: Validate required directories
+        run: |
+          test -d "./evidence"
+          test -d "./generated_data"
+          test -d "./extracted_artifacts"
+          test -d "./hashes"
+          test -d "./chain_of_custody"
+          test -d "./crypto"
+          test -d "./scripts"
+          test -d "./screenshots"
+          test -d "./report"
 
       - name: Validate required files
-        shell: bash
         run: |
-          test -f README.md
-          test -f scripts/calculate_hashes.py
-          test -f scripts/verify_hashes.py
-          test -f scripts/forensic_search.py
-          test -f scripts/metadata_analysis.py
-          test -f scripts/email_extraction.py
-          test -f scripts/dictionary_simulation.py
-          test -f hashes/sha256_hashes.txt
-          test -f chain_of_custody/chain_of_custody.csv
-          test -f crypto/phantom_protected.zip
-          test -f report/Operation_Phantom_Swipe_Technical_Legal_Report.docx
+          test -f "./README.md"
+          test -f "./scripts/calculate_hashes.py"
+          test -f "./scripts/verify_hashes.py"
+          test -f "./scripts/forensic_search.py"
+          test -f "./scripts/metadata_analysis.py"
+          test -f "./scripts/email_extraction.py"
+          test -f "./scripts/dictionary_simulation.py"
+          test -f "./hashes/sha256_hashes.txt"
+          test -f "./chain_of_custody/chain_of_custody.csv"
+          test -f "./crypto/phantom_protected.zip"
+          test -f "./report/Operation_Phantom_Swipe_Technical_Legal_Report.docx"
 
       - name: Validation successful
         run: echo "Operation Phantom Swipe repository structure is valid."
