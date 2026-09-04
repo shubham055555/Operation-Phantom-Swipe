@@ -3,3 +3,5 @@
 crypto/test_extraction/
 Thumbs.db
 .DS_Store
+
+~$*.docx
