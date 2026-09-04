@@ -1,0 +1,17 @@
+Transaction ID: TXN-001
+Timestamp: 2026-08-21 12:05:12
+Amount: INR 4500
+Status: SIMULATED
+Source: Online Transaction Simulation
+
+Transaction ID: TXN-002
+Timestamp: 2026-08-21 12:17:48
+Amount: INR 7250
+Status: SIMULATED
+Source: Online Transaction Simulation
+
+Transaction ID: TXN-003
+Timestamp: 2026-08-21 13:02:31
+Amount: INR 3800
+Status: SIMULATED
+Source: Online Transaction Simulation

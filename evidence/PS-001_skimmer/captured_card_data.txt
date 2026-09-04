@@ -1,0 +1,20 @@
+Evidence ID: PS-001
+
+SIMULATED CARD DATA
+
+Card Record 001
+Card Number: 4111-1111-1111-1111
+Expiry: 12/29
+CVV: 123
+Source: Simulated ATM Skimmer
+Timestamp: 2026-08-21 10:15:23
+
+Card Record 002
+Card Number: 5555-5555-5555-4444
+Expiry: 08/28
+CVV: 456
+Source: Simulated ATM Skimmer
+Timestamp: 2026-08-21 10:17:45
+
+NOTE:
+All payment-card values are dummy training data.

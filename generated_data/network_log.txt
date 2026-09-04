@@ -1,0 +1,10 @@
+SIMULATED NETWORK LOG
+
+2026-08-21 10:18:02
+Source Device: PS-001
+Destination: 192.0.2.10
+Protocol: HTTPS
+Status: SIMULATED
+
+Note:
+192.0.2.0/24 is documentation/example address space.

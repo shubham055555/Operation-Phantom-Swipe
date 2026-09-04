@@ -1,0 +1,12 @@
+CONFIDENTIAL SIMULATED EVIDENCE
+
+Evidence ID: PS-002
+
+This file represents a password-protected forensic
+artefact recovered from the simulated suspect phone.
+
+Finding:
+A protected data container was identified during
+forensic examination.
+
+This is synthetic academic data.

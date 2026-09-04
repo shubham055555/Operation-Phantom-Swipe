@@ -1,0 +1,28 @@
+OPERATION PHANTOM SWIPE
+SIMULATED EVIDENCE INVENTORY
+
+Evidence ID: PS-001
+Description: Simulated ATM Skimmer
+Location: evidence/PS-001_skimmer
+Files:
+- skimmer_device_info.txt
+- captured_card_data.txt
+- skimmer_log.txt
+
+Evidence ID: PS-002
+Description: Simulated Suspect Mobile Phone
+Location: evidence/PS-002_phone
+Files:
+- device_info.txt
+- email.txt
+- gps_log.txt
+- transaction_log.txt
+
+Additional generated artefacts:
+- app_metadata.txt
+- application_activity.log
+- network_log.txt
+- account_info.txt
+
+All evidence is synthetic and intended solely
+for academic digital-forensics simulation.

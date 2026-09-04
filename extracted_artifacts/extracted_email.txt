@@ -1,0 +1,19 @@
+EXTRACTED EMAIL ARTEFACT
+========================
+
+From: suspect01@example.test
+To: suspect02@example.test
+Subject: Transaction Batch
+
+Date: 2026-08-21 11:32
+
+We need to review the transaction batch before moving
+the simulated records to the next location.
+
+Reference: BATCH-0821
+
+This is simulated forensic evidence for academic use.
+
+
+Source: PS-002_phone/email.txt
+Status: SIMULATED FORENSIC ARTEFACT

@@ -1,0 +1,7 @@
+[2026-08-21 10:15:23] Device initialized
+[2026-08-21 10:16:04] Card reader activated
+[2026-08-21 10:16:22] Simulated card record captured
+[2026-08-21 10:17:45] Simulated card record captured
+[2026-08-21 10:18:02] Data export initiated
+[2026-08-21 10:18:16] Export completed
+[2026-08-21 10:20:01] Device entered standby mode

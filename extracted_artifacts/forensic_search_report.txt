@@ -1,0 +1,155 @@
+OPERATION PHANTOM SWIPE
+FORENSIC STRING SEARCH REPORT
+======================================================================
+Search Time: 2026-09-04T19:44:13.763327
+
+SEARCH KEYWORDS
+----------------------------------------------------------------------
+- card
+- transaction
+- gps
+- location
+- email
+- payment
+- skimmer
+- password
+
+SEARCH RESULTS
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 3
+Keyword: card
+Content: SIMULATED CARD DATA
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 5
+Keyword: card
+Content: Card Record 001
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 6
+Keyword: card
+Content: Card Number: 4111-1111-1111-1111
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 9
+Keyword: skimmer
+Content: Source: Simulated ATM Skimmer
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 12
+Keyword: card
+Content: Card Record 002
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 13
+Keyword: card
+Content: Card Number: 5555-5555-5555-4444
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 16
+Keyword: skimmer
+Content: Source: Simulated ATM Skimmer
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 20
+Keyword: card
+Content: All payment-card values are dummy training data.
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Line: 20
+Keyword: payment
+Content: All payment-card values are dummy training data.
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_device_info.txt
+Line: 2
+Keyword: skimmer
+Content: Device Type: Simulated ATM Skimmer
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_device_info.txt
+Line: 9
+Keyword: card
+Content: with payment-card data theft.
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_device_info.txt
+Line: 9
+Keyword: payment
+Content: with payment-card data theft.
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_log.txt
+Line: 2
+Keyword: card
+Content: [2026-08-21 10:16:04] Card reader activated
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_log.txt
+Line: 3
+Keyword: card
+Content: [2026-08-21 10:16:22] Simulated card record captured
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_log.txt
+Line: 4
+Keyword: card
+Content: [2026-08-21 10:17:45] Simulated card record captured
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\device_info.txt
+Line: 9
+Keyword: payment
+Content: 2. PaymentHelper
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\device_info.txt
+Line: 12
+Keyword: email
+Content: 5. Email
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\email.txt
+Line: 3
+Keyword: transaction
+Content: Subject: Transaction Batch
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\email.txt
+Line: 7
+Keyword: transaction
+Content: We need to review the transaction batch before moving
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\email.txt
+Line: 8
+Keyword: location
+Content: the simulated records to the next location.
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\gps_log.txt
+Line: 11
+Keyword: gps
+Content: Source: Simulated GPS Application Data
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 1
+Keyword: transaction
+Content: Transaction ID: TXN-001
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 5
+Keyword: transaction
+Content: Source: Online Transaction Simulation
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 7
+Keyword: transaction
+Content: Transaction ID: TXN-002
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 11
+Keyword: transaction
+Content: Source: Online Transaction Simulation
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 13
+Keyword: transaction
+Content: Transaction ID: TXN-003
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Line: 17
+Keyword: transaction
+Content: Source: Online Transaction Simulation
+----------------------------------------------------------------------
+
+Total matches: 27

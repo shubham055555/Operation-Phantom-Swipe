@@ -1,0 +1,130 @@
+OPERATION PHANTOM SWIPE
+CHAIN OF CUSTODY FORM
+==============================================
+
+CASE INFORMATION
+----------------------------------------------
+Case Name       : Operation Phantom Swipe
+Case Type       : Simulated Cross-Border ATM & Credit Card Fraud
+Investigation  : Digital Forensics
+Evidence Status : Synthetic / Academic Simulation
+
+----------------------------------------------
+EVIDENCE ITEM 1
+----------------------------------------------
+
+Evidence ID     : PS-001
+Item            : Simulated ATM Skimmer Evidence
+Description     : Simulated storage containing skimmer
+                  device information, card records and
+                  device activity logs.
+
+Collection Date : 2026-09-04
+Collection Time : 19:00
+Collected By    : Digital Forensic Investigator
+Location        : Simulated ATM Investigation Site
+
+Initial Condition:
+Intact simulated evidence dataset.
+
+Acquisition Method:
+Files were preserved in a controlled forensic
+evidence directory before analysis.
+
+Write Protection:
+A write-blocker is simulated in this investigation.
+In a real forensic acquisition, a hardware or
+software write blocker would prevent modification
+of the original storage media.
+
+Hashing:
+SHA-256 hash values were calculated immediately
+after acquisition to establish evidence integrity.
+
+----------------------------------------------
+EVIDENCE ITEM 2
+----------------------------------------------
+
+Evidence ID     : PS-002
+Item            : Simulated Suspect Mobile Phone Evidence
+Description     : Simulated mobile-device dataset
+                  containing application metadata,
+                  email, GPS and transaction records.
+
+Collection Date : 2026-09-04
+Collection Time : 19:05
+Collected By    : Digital Forensic Investigator
+Location        : Simulated Suspect Location
+
+Initial Condition:
+Intact simulated evidence dataset.
+
+Acquisition Method:
+Files were preserved before forensic examination.
+
+Write Protection:
+A write-blocking mechanism is simulated.
+Original evidence should not be modified during
+forensic examination.
+
+Hashing:
+SHA-256 values were generated for the acquired
+evidence files.
+
+----------------------------------------------
+EVIDENCE TRANSFER LOG
+----------------------------------------------
+
+Transfer 1
+From            : Digital Forensic Investigator
+To              : Forensic Analyst
+Date            : 2026-09-04
+Purpose         : Forensic examination
+Condition       : Intact
+Hash Verified   : YES
+
+Transfer 2
+From            : Forensic Analyst
+To              : Evidence Storage
+Date            : 2026-09-04
+Purpose         : Secure evidence preservation
+Condition       : Intact
+Hash Verified   : YES
+
+----------------------------------------------
+EVIDENCE HANDLING PRINCIPLES
+----------------------------------------------
+
+1. Original evidence should be preserved and not
+   directly modified during examination.
+
+2. A write blocker should be used during acquisition
+   of physical storage media whenever appropriate.
+
+3. SHA-256 hashes provide an integrity reference for
+   acquired files.
+
+4. Hash values should be recorded at acquisition and
+   verified during later examination.
+
+5. Every transfer of evidence should be documented.
+
+6. Access to evidence should be limited to authorized
+   personnel.
+
+7. Analysis should be performed on forensic copies
+   rather than altering original evidence.
+
+----------------------------------------------
+DECLARATION
+----------------------------------------------
+
+This chain-of-custody document describes a simulated
+academic forensic investigation. All evidence,
+identifiers, transactions and communications used in
+the project are synthetic.
+
+Prepared By     : Digital Forensic Investigator
+Date            : 2026-09-04
+
+Signature       : ______________________________

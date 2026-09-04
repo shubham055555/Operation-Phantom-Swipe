@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+crypto/test_extraction/
+Thumbs.db
+.DS_Store

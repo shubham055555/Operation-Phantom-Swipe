@@ -1,0 +1,53 @@
+OPERATION PHANTOM SWIPE
+SIMULATED FORENSIC METADATA REPORT
+======================================================================
+
+File: evidence\PS-001_skimmer\captured_card_data.txt
+Extension: .txt
+Size: 366 bytes
+Created: 2026-09-04 19:35:03.380261
+Modified: 2026-09-04 19:35:03.381261
+Accessed: 2026-09-04 19:44:13.758421
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_device_info.txt
+Extension: .txt
+Size: 435 bytes
+Created: 2026-09-04 19:35:03.376319
+Modified: 2026-09-04 19:35:03.378306
+Accessed: 2026-09-04 19:44:13.759327
+----------------------------------------------------------------------
+File: evidence\PS-001_skimmer\skimmer_log.txt
+Extension: .txt
+Size: 325 bytes
+Created: 2026-09-04 19:35:03.383253
+Modified: 2026-09-04 19:35:03.384255
+Accessed: 2026-09-04 19:44:13.760348
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\device_info.txt
+Extension: .txt
+Size: 281 bytes
+Created: 2026-09-04 19:35:03.387254
+Modified: 2026-09-04 19:35:03.387254
+Accessed: 2026-09-04 19:44:13.760348
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\email.txt
+Extension: .txt
+Size: 285 bytes
+Created: 2026-09-04 19:35:03.392256
+Modified: 2026-09-04 19:35:03.392256
+Accessed: 2026-09-04 19:44:13.761327
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\gps_log.txt
+Extension: .txt
+Size: 265 bytes
+Created: 2026-09-04 19:35:03.395255
+Modified: 2026-09-04 19:35:03.396259
+Accessed: 2026-09-04 19:44:13.761327
+----------------------------------------------------------------------
+File: evidence\PS-002_phone\transaction_log.txt
+Extension: .txt
+Size: 387 bytes
+Created: 2026-09-04 19:35:03.398259
+Modified: 2026-09-04 19:35:03.399256
+Accessed: 2026-09-04 19:44:13.762327
+----------------------------------------------------------------------

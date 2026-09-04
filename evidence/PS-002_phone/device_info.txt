@@ -1,0 +1,15 @@
+Evidence ID: PS-002
+Device Type: Simulated Android Phone
+Device Status: Seized
+Collection Purpose: Digital Forensic Examination
+
+Installed Applications:
+
+1. SecureNotes
+2. PaymentHelper
+3. FileTransfer
+4. Maps
+5. Email
+
+NOTE:
+Applications and data are simulated for academic use.

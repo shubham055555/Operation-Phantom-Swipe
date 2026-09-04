@@ -1,0 +1,6 @@
+Application: PaymentHelper
+Version: 2.4.1
+Device: PS-002
+Installation Date: 2026-08-20
+Status: SIMULATED
+Purpose: Dummy suspicious application metadata

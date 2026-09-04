@@ -1,0 +1,5 @@
+Username: suspect01
+Account Type: SIMULATED
+Last Login: 2026-08-21 11:31:45
+Authentication Status: SUCCESS
+Environment: Training Dataset

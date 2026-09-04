@@ -1,0 +1,14 @@
+Device ID: PS-002
+
+Timestamp: 2026-08-21 14:30:00
+Latitude: 28.6139
+Longitude: 77.2090
+
+Timestamp: 2026-08-21 16:45:00
+Latitude: 28.6200
+Longitude: 77.2150
+
+Source: Simulated GPS Application Data
+
+NOTE:
+Coordinates are included solely as dummy forensic artefacts.

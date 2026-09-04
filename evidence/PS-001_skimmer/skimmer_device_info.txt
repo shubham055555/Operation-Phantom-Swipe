@@ -1,0 +1,14 @@
+Evidence ID: PS-001
+Device Type: Simulated ATM Skimmer
+Device Status: Seized
+Collection Purpose: Digital Forensic Examination
+
+Description:
+This is a simulated forensic evidence set representing
+an ATM skimming device suspected of being associated
+with payment-card data theft.
+
+All information contained in this project is synthetic
+and created solely for academic forensic investigation.
+
+No real financial information is included.
